@@ -1,0 +1,17 @@
+    header {
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+    }
+    main{
+        background-color: cadetblue;
+         margin: auto;
+  width: 50%;
+        text-align: center;
+    }
+    
+    #submit {
+        color: white;
+        background-color: pink;
+    }
